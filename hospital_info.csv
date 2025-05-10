@@ -1,0 +1,6 @@
+﻿id,latitude,longitude,time [HH:MM:SS],name,power_supply_health,power_consumption [W],remain_energy [%]
+ID_001,34.65092412,133.9206577,13:20:25,Okayama University Hospital,Good,40,80
+ID_002,34.63781298,133.9225207,14:20:25,Okayama Red Cross Hospital,Good,50,70
+ID_003,34.61267559,133.4553162,15:20:25,Ibara Hospital,Good,45,90
+ID_004,34.55129156,132.4285211,16:20:25,Hiroshima University Hospital,Good,60,60
+ID_005,34.24557434,134.4667713,17:20:25,Tokushima University Hospital,Good,40,80
