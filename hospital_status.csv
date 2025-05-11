@@ -1,0 +1,6 @@
+﻿id,latitude,longitude,name,mac_address,power_supply_health,power_consumption,time
+ID_001,34.65092412,133.9206577,Okayama University Hospital,3C:84:27:A4:CB:6A,,,
+ID_002,34.63781298,133.9225207,Okayama Red Cross Hospital,3C:84:27:A4:CB:6A,,,
+ID_003,34.61267559,133.4553162,Ibara Hospital,3C:84:27:A4:CB:6A,,,
+ID_004,34.55129156,132.4285211,Hiroshima University Hospital,3C:84:27:A4:CB:6A,,,
+ID_005,34.24557434,134.4667713,Tokushima University Hospital,3C:84:27:A4:CB:6A,,,
