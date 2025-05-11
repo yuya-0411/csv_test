@@ -38,7 +38,7 @@ def git_commit_and_push_if_due():
         print("[GIT] 30秒経過、CSVをGitHubに反映します...")
         subprocess.run(["git", "add", CSV_PATH])
         subprocess.run(["git", "commit", "-m", "Auto update"], check=False)
-        subprocess.run(["git", "push", GITHUB_REPO], check=False)
+        subprocess.run(["git", "push", "origin", "main"], check=False)
         last_push_time = now
 
 def listen_udp():
